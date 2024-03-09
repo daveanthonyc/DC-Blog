@@ -1,5 +1,5 @@
 ---
-title: 'How to Build a Telegram Bot in JavaScript and Seem Like a Magician'
+title: 'How to Build a Telegram Bot in JavaScript'
 description: 'Here I show you how create your own Telegram bot in JavaScript and how they provide value to the people around you'
 pubDate: '9 March 2024'
 heroImage: '/Telegram-Bot-Doprax-1.png'
