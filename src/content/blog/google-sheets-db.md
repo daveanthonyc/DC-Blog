@@ -1,7 +1,7 @@
 ---
 title: 'Google Sheets as a Database for a Dashboard App?'
 description: 'Here are my findings on how to use Google Sheets as a nifty database'
-pubDate: 'March 07 2025'
+pubDate: 'March 07 2024'
 heroImage: '/google-sheet.jpg'
 ---
 
